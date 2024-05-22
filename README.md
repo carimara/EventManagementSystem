@@ -1,0 +1,2 @@
+# EventManagementSystem
+Individual Project
